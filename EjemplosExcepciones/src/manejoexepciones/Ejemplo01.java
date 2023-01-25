@@ -11,6 +11,10 @@ package manejoexepciones;
  */
 public class Ejemplo01 {
     
+    /**
+     *
+     * @param args
+     */
     public static void main(String[] args) {
         
         int valor1 = 10;

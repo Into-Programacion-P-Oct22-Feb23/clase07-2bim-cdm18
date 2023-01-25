@@ -32,6 +32,6 @@ public class Ejemplo04 {
         }
         
         System.out.println("Continuamos");
-
     }
+
 }

@@ -13,7 +13,7 @@ import java.util.Scanner;
  * @author reroes﻿​_
  */
 public class Ejemplo05 {
-    
+      
     public static void main(String[] args) {
         try{
             Scanner entrada = new Scanner(System.in);
@@ -37,7 +37,10 @@ public class Ejemplo05 {
         
         }
         
-        
+        System.out.println("\nContinuamos");
+
                
     }
 }
+  //analizar que excepcion conviene revisando documentacion
+    // o ir probando manualmente despues de finalizado el programa

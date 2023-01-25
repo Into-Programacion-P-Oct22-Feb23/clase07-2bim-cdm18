@@ -44,3 +44,4 @@ public class Ejemplo07 {
                
     }
 }
+//por lo general se pone el exception al final
